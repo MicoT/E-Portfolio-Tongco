@@ -47,9 +47,6 @@ function Techstack() {
         <SiSnowflake/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSnowflake/>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <SiPhp/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
